@@ -5,3 +5,10 @@ D:\Documents\GitHub\arrays\Arrays\bin\Debug\nunit.framework.xml
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.dll
 D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\bin\Debug\Arrays.dll
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\bin\Debug\nunit.framework.dll
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\bin\Debug\nunit.framework.xml
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\obj\Debug\Arrays.dll
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Felipe\Documents\GitHub\arrays-Pipe98x\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
