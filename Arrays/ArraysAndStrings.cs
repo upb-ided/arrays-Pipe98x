@@ -132,7 +132,7 @@
             {
                 if (inputString[i].GetType() == typeof(char))
                 {
-                    if ((inputString[i] == 'a') || (inputString[i] == 'e') || (inputString[i] == 'i') || (inputString[i] == 'o') || (inputString[i] == 'u'))
+                    if ((inputString[i] == 'a') || (inputString[i] == 'e') || (inputString[i] == 'i') || (inputString[i] == 'o') || (inputString[i] == 'u') || (inputString[i] == 'é'))
                     {
                         result += 1;
                     }
@@ -148,7 +148,7 @@
 
             for (int i = 0; i < inputString.Length; i++)
             {
-                if ((inputString[i] != 'a') && (inputString[i] != 'e') && (inputString[i] != 'i') && (inputString[i] != 'o') && (inputString[i] != 'u'))
+                if ((inputString[i] != 'a') && (inputString[i] != 'e') && (inputString[i] != 'i') && (inputString[i] != 'o') && (inputString[i] != 'u') && (inputString[i] != 'é'))
                 {
                     result += 1;
                 }
